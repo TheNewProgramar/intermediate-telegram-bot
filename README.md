@@ -23,7 +23,6 @@ A Telegram bot built in C that downloads videos from popular platforms.
 - Telegram Bot Token (from [@BotFather](https://t.me/BotFather))
 - libcurl
 - libjson-c
-- yt-dlp
 
 ## 🚀 Installation
 
