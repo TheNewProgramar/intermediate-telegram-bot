@@ -1,4 +1,7 @@
-what does this bot do:
-- Downloading videos from YouTube
-- Downloading videos from Instagram
-- Downloading videos from TikTok
+## ✨ Features
+
+| Platform | Description |
+|----------|-------------|
+| 🎥 YouTube | Download videos in high quality |
+| 📸 Instagram | Download reels, posts, and stories |
+| 🎵 TikTok | Download videos without watermark |
