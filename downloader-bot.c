@@ -275,10 +275,8 @@ int main()
 {
     long long offset = 0;
     
-    curl_global_init(CURL_GLOBAL_ALL);
-    
+    curl_global_init(CURL_GLOBAL_ALL);    
     printf("🤖 Bot started! Press Ctrl+C to stop.\n");
-    
     while(1) {
         process_messages(&offset);
         usleep(1000000);
