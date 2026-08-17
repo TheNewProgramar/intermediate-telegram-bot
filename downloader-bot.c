@@ -5,7 +5,7 @@
 #include <curl/curl.h>
 #include <json-c/json.h>
 #include <time.h>
-
+// put youre tkoen
 #define TOKEN "YOUR_BOT_TOKEN_HERE"
 #define MAX_FILE_SIZE 50000000  // 50MB (Telegram bot limit)
 
