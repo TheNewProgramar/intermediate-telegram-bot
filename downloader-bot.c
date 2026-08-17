@@ -277,6 +277,7 @@ int main()
     
     curl_global_init(CURL_GLOBAL_ALL);    
     printf("🤖 Bot started! Press Ctrl+C to stop.\n");
+    
     while(1) {
         process_messages(&offset);
         usleep(1000000);
